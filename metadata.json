@@ -1,0 +1,6 @@
+{
+  "name": "微脉电子名片",
+  "description": "遵循苹果设计语言的高端企业电子名片小程序，具留白美学、圆角卡片、自然磨砂玻璃特效、一键拨号、地图定位、附件查阅及一键存入手机通讯录。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
